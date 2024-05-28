@@ -1,2 +1,2 @@
 # convert-temp
-code to convert Kelvin to Celsius, then to Fahrenheit.
+"Here's the code to convert Kelvin to Celsius and Fahrenheit."
